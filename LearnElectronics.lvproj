@@ -14,6 +14,7 @@
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="PowerDmm.vi" Type="VI" URL="../PowerDmm.vi"/>
+		<Item Name="VirtualBench_I2C Bus Mastering.vi" Type="VI" URL="../VirtualBench_I2C Bus Mastering.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
